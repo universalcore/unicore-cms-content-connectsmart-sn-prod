@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a74cec13e8e5482391cde26bc05854f2"
+  ], 
   "id": null, 
   "content": "Tu as vu un message ou une photo sur un r\u00e9seau social qui te contrarie. Que dois tu faire ?\r\n\r\n- Tu connais la personne : Envoie lui un message ou parle le lui directement pour expliquer pourquoi le message ou la photo t\u2019a offens\u00e9(e).\r\n\r\n - Tu peux aussi le retirer de ta liste d\u2019amis ou le bloquer pour ne plus voir ses messages. Cette possibilit\u00e9 existe sur la plupart des r\u00e9seaux sociaux. Ainsi, la personne ne pourra plus t\u2019envoyer de message.\r\n\r\n - Il est possible aussi de signaler un message ou une photo qui va \u00e0 l\u2019encontre des r\u00e8gles du r\u00e9seau social. Sur Facebook, on peut notamment signaler le harc\u00e8lement, la violence graphique et les spams. Utilise l\u2019onglet \u00ab signaler \u00bb \u00e0 c\u00f4t\u00e9 du message ou de la photo.\r\n\r\n - Tu peux aussi informer les responsables du r\u00e9seau social que cette personne ne respecte pas les r\u00e8gles. Regarde dans les param\u00e8tres.\r\n\r\n - V\u00e9rifie toujours les param\u00e8tres de confidentialit\u00e9 pour \u00e9viter qu\u2019on t\u2019identifie sur des photos qui ne t\u2019int\u00e9resse pas ou qui peuvent te nuire. \r\n\r\n\r\nConseil Internet suivant : ", 
   "source": null, 
